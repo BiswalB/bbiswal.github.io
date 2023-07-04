@@ -690,30 +690,5 @@ Programmer: Coding different modules in Palm Print Recognition system.
 
 **<u>REFERENCES</u>**
 
-- Dr. Nikunja K. Swain
 
-> E-mail: <swain@scsu.edu> Tel.: 803-536-8675
->
-> Dept.: Computer Science and Mathematics, South Carolina State
-> University
->
-> Relationship: Current Job Advisor / Chairperson
-
-- Dr. Sachin Shetty
-
-E-mail: <u>sshetty@odu.edu</u> Tel.: 757-638-6233
-
-Dept.: Dept. of Modeling, Simulation and Visualization Engineering, Old
-Dominion University
-
-Relationship: PhD Dissertation supervisor
-
-- Dr. Zaijing Sun
-
-> Email: <zaijing.sun@unlv.edu> Tel.: 702-895-4476
->
-> Dept.: Health Physics and Diagnostic Sciences, University of Nevada,
-> Las Vegas
->
-> Relationship: Co-author
 
